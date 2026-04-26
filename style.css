@@ -23,3 +23,6 @@ body form {
     height: auto;
     text-align: center;
 }
+.box {
+    position: absolute;
+}
